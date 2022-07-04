@@ -1,24 +1,7 @@
-# xwxmusic
+#基于网抑云 api 的一个项目
 
-## Project setup
-```
-npm install
-```
+## 第一天
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+项目关联到gitee
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
